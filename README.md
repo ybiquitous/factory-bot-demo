@@ -2,6 +2,11 @@
 
 See <https://www.rubydoc.info/gems/factory_bot/file/GETTING_STARTED.md>.
 
+Code:
+
+- https://github.com/ybiquitous/factory-bot-demo/blob/master/test/factories/books.rb
+- https://github.com/ybiquitous/factory-bot-demo/blob/master/test/models/book_test.rb
+
 ```
 $ bin/rails t test/models/book_test.rb
 
